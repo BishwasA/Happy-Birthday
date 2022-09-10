@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Happy Birtday</title>
+	<link rel="stylesheet" type="text/css" href="style1.css">
+	<meta http-equiv="X-UA-Compatible"content="IE=edge">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="discription" content="">
+	<meta name="author" content="">
+	<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+	<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+</head>
+<body>
+<nav>
+   	<a href="index.html">Home</a>
+   	<a href="galleryy.html">Gallery</a>
+   	<a href="contactt.html">Contact</a>
+     
+   </nav>
+   
+    <div class="back"></div>
+	<div class="area">
+<div class="one">
+Happy Birthday
+</div>
+<div class="name">Donn<3</div>
+<div class="det">
+	
+</div>
+</div> 
+<div class="imgarea">
+	<div class="img left">
+		<div data-aos="zoom-out"></div>
+		<img src="s.jpg" alt="">
+</div>
+<div class="img right">
+		<div data-aos="zoom-out"></div>
+		<img src="a.jpg" alt="">
+</div>
+<div class="img left">
+		<div data-aos="zoom-out"></div>
+		<img src="n.jpeg" alt="">
+</div>
+<div class="img right">
+		<div data-aos="zoom-out"></div>
+		<img src="j.jpeg" alt="">
+</div>
+<div class="img left">
+		<div data-aos="zoom-out"></div>
+		<img src="e.jpeg" alt="">
+</div>
+<div class="img right">
+		<div data-aos="zoom-out"></div>
+		<img src="l.jpeg" alt="">
+</div>
+</div>
+<script>
+	AOS.init(0);
+</script>
+</body>
+</html>
